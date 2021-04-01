@@ -1,0 +1,33 @@
+name: titanic_platzi
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - black
+  - invoke
+  - jupyter
+  - jupyterlab
+  - keras
+  - lightgbm
+  - matplotlib
+  - missingno
+  - nbdime
+  - numpy
+  - pandas
+  - pandas-flavor
+  - pandas-profiling
+  - pip
+  - plotly
+  - pyjanitor
+  - pylint
+  - pyspark
+  - python=3.7
+  - python-dotenv
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - tensorflow
+  - pip:
+    - h2o
+    - pyhere
