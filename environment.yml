@@ -8,6 +8,7 @@ dependencies:
   - invoke
   - jupyter
   - jupyterlab
+  - kaggle
   - keras
   - lightgbm
   - matplotlib
@@ -16,7 +17,7 @@ dependencies:
   - numpy
   - pandas
   - pandas-flavor
-  - pandas-profiling
+  - pandas-profiling > 1.4.1
   - pip
   - plotly
   - pyjanitor
