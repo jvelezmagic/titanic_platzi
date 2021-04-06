@@ -25,10 +25,13 @@ dependencies:
   - pyspark
   - python=3.7
   - python-dotenv
+  - python-graphviz
   - scikit-learn
   - seaborn
+  - shap
   - statsmodels
   - tensorflow
+  - xgboost
   - pip:
     - h2o
     - pyhere
